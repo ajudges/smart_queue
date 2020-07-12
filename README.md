@@ -14,11 +14,11 @@ The hardware proposal and a comparison of the performance of the various hardwar
 
 ## Demos 
 ### Manufacturing Scenario
-[![demo video of manufacturing](https://img.youtube.com/vi/FHi6hkQYHhk/2.jpg)](https://youtu.be/FHi6hkQYHhk)
+[![demo video of manufacturing](https://img.youtube.com/vi/FHi6hkQYHhk/0.jpg)](https://youtu.be/FHi6hkQYHhk)
 
 ### Retail Scenario
-[![demo video of retail](https://img.youtube.com/vi/U2zWCGK2arA/2.jpg)](https://youtu.be/U2zWCGK2arA)
+[![demo video of retail](https://img.youtube.com/vi/U2zWCGK2arA/0.jpg)](https://youtu.be/U2zWCGK2arA)
 
 ### Transport Scenario
-[![demo video of transport](https://img.youtube.com/vi/vnf5eoHaOOg/2.jpg)](https://youtu.be/vnf5eoHaOOg)
+[![demo video of transport](https://img.youtube.com/vi/vnf5eoHaOOg/0.jpg)](https://youtu.be/vnf5eoHaOOg)
 
